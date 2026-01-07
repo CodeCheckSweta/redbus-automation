@@ -60,8 +60,7 @@ public class RedBusAutomation {
 		int index = 0;
 		int step = 5;
 		
-		while(true) {
-			
+		while(true) {			
 			if (!driver.findElements(endOfListLocator).isEmpty()) {
 		        break;
 		    }
