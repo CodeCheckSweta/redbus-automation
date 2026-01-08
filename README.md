@@ -25,7 +25,7 @@ redbus-automation/                        <br>
 │     └─ java/                            <br>
 │        └─ com/                          <br>
 │           └─ redBus/                    <br>
-│              └─ RedBusAutomation.java     # Main automation class    <br>
-├─ pom.xml / build.gradle                   # Build configuration      <br>
-├─ README.md                                # Project documentation    <br>
-└─ .gitignore                                                          <br>
+│              └─ RedBusAutomation.java   <br>
+├─ pom.xml / build.gradle                 <br>
+├─ README.md                              <br>
+└─ .gitignore                             
